@@ -87,7 +87,7 @@ proxies:
   type: trojan
   server: www.sujoe.top
   port: 443
-  password: 231fb351
+  password: f67612e3
   # udp: true
   # sni: example.com # 填写伪装域名
   alpn:

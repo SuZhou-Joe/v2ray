@@ -86,7 +86,7 @@ proxies:
 - name: "trojan"
   type: trojan
   server: www.sujoe.top
-  port: 443
+  port: 41131
   password: suzhou
   # udp: true
   # sni: example.com # 填写伪装域名
